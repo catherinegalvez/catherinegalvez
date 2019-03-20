@@ -1,0 +1,40 @@
+
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Jura);
+$PURPLE: #edb2ff;
+$BLUE:#3683f7;
+$GOLD:#af7e44;
+body {
+  height: 100%;
+  width: 100%;
+  background-color: $PURPLE;
+  text-align:center;
+  justify-content: center;
+  
+}
+a {
+ text-decoration:none; 
+  color: #00a1ff;
+} 
+.Neil{
+  color:purple;
+}
+.Sequoia{
+  color:red;
+}
+.Crazy{
+  color:black;
+}
+h1{
+background-color:$GOLD;
+  color:$BLUE;
+ font-family:"Amatic SC"; 
+  padding: 100px;
+}
+h3{
+  text-align:start;
+  font-family: Jura;
+}
+test{
+ 
+}
