@@ -15,12 +15,51 @@ body {
 a {
  text-decoration:none; 
   color: #00a1ff;
+
 } 
+button{
+  color:#dfafff;
+  background-color:#426ef4;
+  border-color:#426ef4;
+  padding:4px;
+}
+button:hover{
+  color:#426ef4;
+  background-color:#dfafff;
+  border-color:#dfafff;
+}
+h1:hover{
+  color:#af7e44;
+  background-color:#3683f7;
+}
 .Neil{
   color:purple;
+  padding:20px;
+  background-color:#0059ff;
+}
+.Renata{
+  color:#ff007f;
+  padding:20px;
+  background-color:#002aff;
+}
+.Carlos{
+  color:#058e0a;
+  padding:20px;
+  background-color:#0400f9;
 }
 .Sequoia{
   color:red;
+} 
+.ADVISORIESSSS{
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  padding:10px;
+  background-color:#4286f4;
+}
+.ADVISORIESSSS:hover{
+  color:#ffee00;
+  background-color:#ffee00;
 }
 .Crazy{
   color:black;
