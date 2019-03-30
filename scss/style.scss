@@ -27,25 +27,42 @@ button:hover{
   color:#426ef4;
   background-color:#dfafff;
   border-color:#dfafff;
+  font-family:"Open Sans Condensed";
+ font-weight:bold;
+  
 }
 h1:hover{
   color:#af7e44;
   background-color:#3683f7;
+  font-family:"ZCOOL XiaoWei";
+ 
 }
 .Neil{
   color:purple;
   padding:20px;
   background-color:#0059ff;
 }
+.Neil:hover{
+  color:#0059ff;
+  background-color:purple;
+}
 .Renata{
   color:#ff007f;
   padding:20px;
   background-color:#002aff;
 }
+.Renata:hover{
+  color:#002aff;
+  background-color:#ff007f;
+  }
 .Carlos{
   color:#058e0a;
   padding:20px;
   background-color:#0400f9;
+}
+.Carlos:hover{
+  color:#0400f9;
+  background-color:#058e0a;
 }
 .Sequoia{
   color:red;
